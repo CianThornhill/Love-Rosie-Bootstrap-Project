@@ -2,8 +2,20 @@
 /*font-family: 'Exo 2', sans-serif;
 font-family: 'Roboto', sans-serif;*/
 
+/*----------------------------------------Colours */
+
+.bg-color-name-title{
+    background-color: #676767;
+}
+
+/*----------------------------------------Heading */
+
 header{
     margin: 0;
+}
+
+.heading{
+    margin-left: 50px;
 }
 
 .logo {
@@ -17,4 +29,20 @@ header{
     -webkit-transition: all .5s ease-in-out;
 }
 
+.name {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #ffffff;
+}
+
+.title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #ffffff;
+}
 
